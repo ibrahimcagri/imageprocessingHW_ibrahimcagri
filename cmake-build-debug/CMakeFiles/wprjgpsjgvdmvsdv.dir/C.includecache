@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Doruk/Desktop/wprjgpsıjgvdmvsdğv/bitmap.h
+stdint.h
+-
+
+/cygdrive/c/Users/Doruk/Desktop/wprjgpsıjgvdmvsdğv/dork.c
+stdio.h
+-
+stdlib.h
+-
+bitmap.h
+/cygdrive/c/Users/Doruk/Desktop/wprjgpsıjgvdmvsdğv/bitmap.h
+
